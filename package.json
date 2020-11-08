@@ -1,0 +1,14 @@
+{
+  "name": "bot-ticket-mp-v12-master",
+  "version": "1.0.0",
+  "description": ":warning: Ceci est un refonte **(V12)** par Allan#4650 de ma version de **(v11)** j'e l'ai remodifier a ma sauce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
