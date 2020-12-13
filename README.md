@@ -5,3 +5,5 @@ Voila un Bot-ticket pour votre Serveurs!
 :warning: Et surtout la commande pour le support vous avez juste a lui envoyer un message pas besoin de commandes!
 
 Bon developpement a vous!
+
+Fait par https://github.com/Julioju1015
